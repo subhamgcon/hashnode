@@ -101,7 +101,8 @@ spec:
 ```
 Notice the resources key is unnecessary and has no value. Now when we run this file through the Clean feature we get this: 
  
-![Screenshot 2022-03-24 at 12.04.44 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648060526115/7SRAYWT1R.png)
+
+![Screenshot 2022-03-24 at 12.26.20 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648061873144/Cj4BJM-dE.png)
 
 ```
 apiVersion: apps/v1
