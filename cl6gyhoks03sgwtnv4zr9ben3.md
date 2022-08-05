@@ -22,7 +22,7 @@ After COVID, the demand for skilled professionals is quite high and hence skill-
 2. Teamwork and Team Management: These two skills are required if someone wants to be a leader in their field. Teamwork and proper management help to get along with folks and effectively solve any problem together and achieve any goals. 
 3. Problem-solving: This helps you find quick and effective solutions for complex problems and helps you tackle issues - big or small in a much better way. 
 
-# Conclusion: 
+# Conclusion 
 
 In this era and in future, the education that the traditional education system provides will not be enough for an individual to get a good job or run a business because all these will need them to learn important and useful skills.
 
